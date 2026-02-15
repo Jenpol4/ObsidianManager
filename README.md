@@ -17,31 +17,15 @@
 
 ## 📥 Téléchargement
 
-Rendez-vous dans l'onglet **[Releases]** (lien_a_mettre_ici) pour télécharger la dernière version `.exe`.
+Rendez-vous dans l'onglet **[Releases]** (https://github.com/Jenpol4/ObsidianManager/releases) pour télécharger la dernière version `.exe`.
 
 1.  Téléchargez le fichier `.zip`.
 2.  Extrayez le dossier où vous voulez (Bureau, Clé USB...).
 3.  Lancez `ObsidianManager.exe`.
 
-## 🛠️ Installation pour les Développeurs
-
-Si vous souhaitez modifier le code source :
-
-1.  Clonez le dépôt :
-    ```bash
-    git clone [https://github.com/Jenpol4/ObsidianManager.git](https://github.com/Jenpol4/ObsidianManager.git)
-    ```
-2.  Installez les dépendances :
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  Lancez le script :
-    ```bash
-    python main.py
-    ```
-
 ## 📸 Aperçu
-*(Tu pourras ajouter ici des captures d'écran de ton logiciel plus tard)*
+<img width="1002" height="789" alt="image" src="https://github.com/user-attachments/assets/2d74aad0-8d31-46c8-9a16-7a131bda5448" />
+
 
 ---
 *Développé par Jenpol4 - Projet de Terminale 2026*
